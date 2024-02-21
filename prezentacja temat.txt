@@ -1,5 +1,6 @@
-jakieś 10 slajdów na temat "9. Generatory liczb pseudolosowych"(na 06 lub 13.03.2024)
+jakieś 10 slajdów na temat "9. Generatory liczb pseudolosowych"(na 06.03.2024 lub 13.03.2024)
 
+max 2 nieobecności
 
 Programujemy w języku C
 robić sprawozdania(wszystkie kody z labów) wysyłać na maila (w pdf), pliki hex i kod źródłowy
