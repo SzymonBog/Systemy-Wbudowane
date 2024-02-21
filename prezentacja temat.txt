@@ -6,3 +6,7 @@ symulator z którego można korzystać: PICSIMLAB
 
 Programujemy w języku C
 robić sprawozdania(wszystkie kody z labów) wysyłać na maila (w pdf), pliki hex i kod źródłowy
+
+email: kacper.kotulak@uwm.edu.pl
+
+do kazdego bloku w kodzie ma być komentarz
