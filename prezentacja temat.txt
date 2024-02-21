@@ -2,5 +2,7 @@ jakieś 10 slajdów na temat "9. Generatory liczb pseudolosowych"(na 06.03.2024 
 
 max 2 nieobecności
 
+symulator z którego można korzystać: PICSIMLAB
+
 Programujemy w języku C
 robić sprawozdania(wszystkie kody z labów) wysyłać na maila (w pdf), pliki hex i kod źródłowy
